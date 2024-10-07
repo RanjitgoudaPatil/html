@@ -1,21 +1,65 @@
-*{
-    padding: 0;
-    margin: 0;
-    color: white;
-    
+/* 
+#logo{
+    margin-left: 2px;
+    font-size: 25px;
+    color: orange;
 }
 #navbar{
     height: 60px;
-    background-color: #0f1111;
+    background-color: black;
+}
+a{
+    text-transform: none;
+    color: white;
+    margin-left: 200px;
+}
+input{
+    margin-left: 200px;
 }
 button{
-    background-color:#f08804 ;
+    background-color: #f08804;
+    color: white;
 }
-#logo{
-    color: #f08804;
+.contentbox{
+    height: 580px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+#content{
+    height: 620px;
+}
+footer{
+    background-color:black ;
+    color: white;
+    text-align: center;
 
+} */
+/* #box1{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    font-size: 10px;
 }
-a {
-    margin-right: 200px;
-    text-decoration: none;
-}
+#box2{
+    height: 50px;
+   
+    width: 30%;
+    background-color: yellow;
+    margin-left: 10%;
+    font-size: 2em;
+} */
+  /* div{
+    height: 100px;
+    width: 100px;
+    background-image:url(lion.jpg.jpeg);
+    background-size: cover;
+    color: white;
+    position: fixed;
+    right: 0px;
+
+
+ } 
+   */
